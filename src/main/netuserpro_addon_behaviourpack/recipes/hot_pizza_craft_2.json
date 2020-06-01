@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "netuserpro_addon:hot_pizza_craft_2"
+    },
+    "groups": [
+      "netuserpro_addon"
+    ],
+    "tags": [
+      "campfire"
+    ],
+    "input": {
+      "item": "netuserpro_addon:pizza"
+    },
+    "output": {
+      "item": "netuserpro_addon:hot_pizza"
+    }
+  }
+}

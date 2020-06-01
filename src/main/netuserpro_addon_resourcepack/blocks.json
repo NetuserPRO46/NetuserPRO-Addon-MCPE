@@ -1,0 +1,18 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "netuserpro_addon:money_block": {
+    "textures": {
+      "up": "netuserpro_addon_money_block_up",
+      "down": "netuserpro_addon_money_block_down",
+      "south": "netuserpro_addon_money_block_south",
+      "north": "netuserpro_addon_money_block_north",
+      "west": "netuserpro_addon_money_block_west",
+      "east": "netuserpro_addon_money_block_east"
+    },
+    "sound": "stone"
+  }
+}

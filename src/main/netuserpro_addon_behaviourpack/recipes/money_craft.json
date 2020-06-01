@@ -1,0 +1,52 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "netuserpro_addon:money_craft"
+    },
+    "groups": [
+      "netuserpro_addon"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "012",
+      "345",
+      "678"
+    ],
+    "key": {
+      "0": {
+        "item": "netuserpro_addon:coin"
+      },
+      "1": {
+        "item": "netuserpro_addon:coin"
+      },
+      "2": {
+        "item": "netuserpro_addon:coin"
+      },
+      "3": {
+        "item": "netuserpro_addon:coin"
+      },
+      "4": {
+        "item": "netuserpro_addon:coin"
+      },
+      "5": {
+        "item": "netuserpro_addon:coin"
+      },
+      "6": {
+        "item": "netuserpro_addon:coin"
+      },
+      "7": {
+        "item": "netuserpro_addon:coin"
+      },
+      "8": {
+        "item": "netuserpro_addon:coin"
+      }
+    },
+    "result": {
+      "item": "netuserpro_addon:money",
+      "count": 1
+    }
+  }
+}

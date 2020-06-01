@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "A NetuserPRO Add-on §4YT:http://netuserpro.epizy.com/yt",
+    "name": "NetuserPRO Add-on",
+    "uuid": "de6b890f-f182-3d6c-ba0d-135d227f3155",
+    "version": [
+      1,
+      0,
+      3
+    ],
+    "min_engine_version": [
+      1,
+      14,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "A NetuserPRO Add-on §4YT:http://netuserpro.epizy.com/yt",
+      "type": "resources",
+      "uuid": "fe0b3f0e-4a3b-3009-9460-54f567b51630",
+      "version": [
+        1,
+        0,
+        3
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "NetuserPRO"
+    ],
+    "url": "http://netuserpro.epizy.com"
+  }
+}
