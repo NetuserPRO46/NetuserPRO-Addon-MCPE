@@ -164,6 +164,7 @@
     "websiteURL": "http://netuserpro.epizy.com",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "modPicture": "pack_icon",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
