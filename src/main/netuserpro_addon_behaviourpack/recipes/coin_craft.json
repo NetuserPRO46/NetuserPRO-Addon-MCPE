@@ -11,10 +11,16 @@
       "crafting_table"
     ],
     "pattern": [
-      "0"
+      "012"
     ],
     "key": {
       "0": {
+        "item": "minecraft:gold_ingot"
+      },
+      "1": {
+        "item": "minecraft:gold_ingot"
+      },
+      "2": {
         "item": "minecraft:gold_ingot"
       }
     },
