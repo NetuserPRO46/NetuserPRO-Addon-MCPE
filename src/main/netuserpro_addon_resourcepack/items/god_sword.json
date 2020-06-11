@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "netuserpro_addon:god_sword",
+      "category": "Items",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "god_sword",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

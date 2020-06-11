@@ -8,6 +8,9 @@
     "money": {
       "textures": "textures/items/money"
     },
+    "god_sword": {
+      "textures": "textures/items/god_sword"
+    },
     "hot_pizza": {
       "textures": "textures/items/hot_pizza"
     },

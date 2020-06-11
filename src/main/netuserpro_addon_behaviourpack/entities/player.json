@@ -13,6 +13,11 @@
           "damage": 1
         }
       },
+      "netuserpro_addon:god_sword": {
+        "minecraft:attack": {
+          "damage": 9999
+        }
+      },
       "minecraft:add_bad_omen": {
         "minecraft:spell_effects": {
           "add_effects": [
@@ -181,6 +186,19 @@
               ]
             },
             "event": "minecraft:event_normal_player"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
+                  "value": "netuserpro_addon:god_sword"
+                }
+              ]
+            },
+            "event": "netuserpro_addon:god_sword"
           }
         ]
       }
@@ -193,7 +211,16 @@
           ]
         },
         "remove": {
-          "component_groups": []
+          "component_groups": [
+            "netuserpro_addon:god_sword"
+          ]
+        }
+      },
+      "netuserpro_addon:god_sword": {
+        "add": {
+          "component_groups": [
+            "netuserpro_addon:god_sword"
+          ]
         }
       },
       "minecraft:gain_bad_omen": {

@@ -1,0 +1,24 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "god_sword",
+    "customModelName": "Normal",
+    "name": "God Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 9999.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": []
+  }
+}
